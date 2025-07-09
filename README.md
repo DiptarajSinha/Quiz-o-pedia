@@ -57,23 +57,23 @@ Here’s a quick look at the landing page:
 
 This is the Admin dashboard:
 
-![Admin dashboard](./screenshots/admin-dashboard.png)
+![Admin dashboard](./Screenshots/admin-dashboard.png)
 
 This is the User dashboard:
 
-![User dashboard](./screenshots/user-dashboard.png)
+![User dashboard](./Screenshots/user-dashboard.png)
 
 This is how you can create quiz using AI:
 
-![ai-quiz-generator](./screenshots/ask-ai-assistant.png)
+![ai-quiz-generator](./Screenshots/ask-ai-assistant.png)
 
 Below is the AI feedback section after quiz submission:
 
-![AI Feedback](./screenshots/ai-feedback.png)
+![AI Feedback](./Screenshots/ai-feedback.png)
 
 Now, the leaderboard section for each quiz:
 
-![leaderboard](./screenshots/leaderboard.png)
+![leaderboard](./Screenshots/leaderboard.png)
 
 ---
 
