@@ -65,11 +65,11 @@ This is the User dashboard:
 
 This is how you can create quiz using AI:
 
-![ai-quiz-generator](./Screenshots/ask-ai-assistant.png)
+![ai-quiz-generator](./Screenshots/ai-quiz-generator.png)
 
 Below is the AI feedback section after quiz submission:
 
-![AI Feedback](./Screenshots/ai-feedback.png)
+![AI Feedback](./Screenshots/ask-ai-assistant.png)
 
 Now, the leaderboard section for each quiz:
 
