@@ -53,7 +53,7 @@ Quiz-o-pedia is a full-stack, AI-integrated quiz platform where:
 
 Here’s a quick look at the landing page:
 
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page](./Screenshots/landing-page.png)
 
 This is the Admin dashboard:
 
