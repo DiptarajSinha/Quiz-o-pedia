@@ -49,9 +49,31 @@ Quiz-o-pedia is a full-stack, AI-integrated quiz platform where:
 
 ---
 
-## 🖼️ Preview
+## 📸 Preview
 
-> Add screenshots or a Loom demo here if you like!
+Here’s a quick look at the landing page:
+
+![Landing Page](./screenshots/landing-page.png)
+
+This is the Admin dashboard:
+
+![Admin dashboard](./screenshots/admin-dashboard.png)
+
+This is the User dashboard:
+
+![User dashboard](./screenshots/user-dashboard.png)
+
+This is how you can create quiz using AI:
+
+![ai-quiz-generator](./screenshots/ask-ai-assistant.png)
+
+Below is the AI feedback section after quiz submission:
+
+![AI Feedback](./screenshots/ai-feedback.png)
+
+Now, the leaderboard section for each quiz:
+
+![leaderboard](./screenshots/leaderboard.png)
 
 ---
 
